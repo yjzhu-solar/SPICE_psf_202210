@@ -1,0 +1,69 @@
+{
+
+
+  "____COMMENT0.0":"You have to specify file selection mode: ",
+  "____COMMENT0.1":"intervale : than give the date",
+  "____COMMENT0.2":"list      : than give list of files ",
+  "____COMMENT0.3":"folder    : than give the folder to look in",
+  "____COMMENT0.4":"configs for other than the one selected have",
+  "____COMMENT0.5":"no impact what so ever even if they were implimented",
+  
+  
+  
+  "SELECTION_MODE": "list",
+  
+
+  
+  "file selection mode=> list":{
+    "files"              : [
+      "/home/yjzhu/SOLAR/SPICE_202210/src/solo_L2_spice-n-ras_20221017T031211_V03_150995346-000.fits"
+  ]
+      },
+
+  "file selection mode=> folder":{
+    "L2_folder"          : "folder/location/all/files/inside/are/fitted"
+  },
+  
+  "file selection mode=> date intervale": {
+    "L2_folder"          : "/archive/SOLAR-ORBITER/SPICE/fits/level2/",
+    "YEAR"               : ["one year or list"],
+    "MONTH"              : ["one month or list"],
+    "DAY"                : ["one day or list"],
+    "STD_TYP"            : "COMPO",
+    "STP_NUM"            : "all",
+    "SOOP_NAM"           : "all",
+    "MISOSTUD_NUM"       : "all",
+    "in_name"            : null
+  },
+  
+  "fit_raster_args"      : {
+    
+    "____________________COMMENT1": "data improving",
+    "preclean"           : true,
+    "weights"            : true,
+    "denoise"            : true,
+    "despike"            : true,
+    "convolute"          : true,
+    
+    "____________________COMMENT2": "Convolution Parameters",
+    "conv_errors"             : {"I": 0.01,"x": 0.0001,"s": 0.01,"B": 100 },
+    "convolution_extent_list" : [6],
+    
+    "____________________COMMENT3": "data storage parameters",
+    "save_data"          : true,
+    "data_save_dir"      : "/home/yjzhu/SOLAR/SPICE_202210/sav/saffron_results/1017/",
+    "___________COMMENT4": "use ::SAMENAME to replace the placeholder, ::SAMENAMEL2.5 is to change L2 to L2.5 by the name of the fits input file or ::CONV to replace by the convolution level(s) with - as separator or ::TIME to replace it by fitting start time",
+    "data_filename"      : "::SAMENAMEL2.5/con-::CONV/::SAMENAMEL2.5_::PARAMPLACEHOLDER_con-::CONV_time-::TIME.fits",
+    
+    "____________________COMMENT5": "Additional parameters",
+    "window_size"        : [
+                              [120,700],
+                              [0,null]
+                            ],                      
+    "Jobs"               : 1
+  },
+
+  "getfile_verbose"      : -2,
+  "geninits_verbose"     :  4,
+  "fit_verbose"          : -2
+}
