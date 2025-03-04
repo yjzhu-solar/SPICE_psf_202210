@@ -1,0 +1,1 @@
+/cluster/home/zhuyin/Solar/SPICE_psf_202210/ipynb/spice_full_detector/spice_1024_full_detector_psf_parameter_search_euler_job_claude.py

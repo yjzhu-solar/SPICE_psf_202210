@@ -1,0 +1,22 @@
+Many modules are hidden in this stack. Use "module --show_hidden spider SOFTWARE" if you are not able to find the required software
+Many modules are hidden in this stack. Use "module --show_hidden spider SOFTWARE" if you are not able to find the required software
+2025-02-26 15:36:26 - root - INFO: Starting SPICE PSF optimization
+2025-02-26 15:36:26 - root - INFO: Loading SPICE raster files
+WARNING: FITSFixedWarning: CROTA = 4.74638738770 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:36:26 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74638738770 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.928116 from DATEREF.
+Set MJD-OBS to 59876.928116 from DATE-OBS.
+Set MJD-BEG to 59876.928116 from DATE-BEG.
+Set MJD-AVG to 59876.928461 from DATE-AVG.
+Set MJD-END to 59876.928806 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:36:26 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.928116 from DATEREF.
+Set MJD-OBS to 59876.928116 from DATE-OBS.
+Set MJD-BEG to 59876.928116 from DATE-BEG.
+Set MJD-AVG to 59876.928461 from DATE-AVG.
+Set MJD-END to 59876.928806 from DATE-END'.
+WARNING: UnitsWarning: 'W/m2/sr/nm' contains multiple slashes, which is discouraged by the FITS standard [astropy.units.format.generic]
+2025-02-26 15:36:26 - astropy - WARNING: UnitsWarning: 'W/m2/sr/nm' contains multiple slashes, which is discouraged by the FITS standard
+2025-02-26 15:36:27 - root - INFO: Processing file batch 1/6 (files 1-5)
+slurmstepd: error: *** JOB 24654599 ON eu-g9-047-3 CANCELLED AT 2025-02-26T15:36:27 ***

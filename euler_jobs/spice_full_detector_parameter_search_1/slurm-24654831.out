@@ -1,0 +1,673 @@
+Many modules are hidden in this stack. Use "module --show_hidden spider SOFTWARE" if you are not able to find the required software
+Many modules are hidden in this stack. Use "module --show_hidden spider SOFTWARE" if you are not able to find the required software
+2025-02-26 15:37:53 - root - INFO: Starting SPICE PSF optimization
+2025-02-26 15:37:53 - root - INFO: Loading SPICE raster files
+WARNING: FITSFixedWarning: CROTA = 4.74638738770 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:53 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74638738770 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.928116 from DATEREF.
+Set MJD-OBS to 59876.928116 from DATE-OBS.
+Set MJD-BEG to 59876.928116 from DATE-BEG.
+Set MJD-AVG to 59876.928461 from DATE-AVG.
+Set MJD-END to 59876.928806 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:53 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.928116 from DATEREF.
+Set MJD-OBS to 59876.928116 from DATE-OBS.
+Set MJD-BEG to 59876.928116 from DATE-BEG.
+Set MJD-AVG to 59876.928461 from DATE-AVG.
+Set MJD-END to 59876.928806 from DATE-END'.
+WARNING: UnitsWarning: 'W/m2/sr/nm' contains multiple slashes, which is discouraged by the FITS standard [astropy.units.format.generic]
+2025-02-26 15:37:53 - astropy - WARNING: UnitsWarning: 'W/m2/sr/nm' contains multiple slashes, which is discouraged by the FITS standard
+2025-02-26 15:37:53 - root - INFO: Processing file batch 1/6 (files 1-5)
+WARNING: FITSFixedWarning: CROTA = 4.74580365575 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:53 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74580365575 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.929352 from DATEREF.
+Set MJD-OBS to 59876.929352 from DATE-OBS.
+Set MJD-BEG to 59876.929352 from DATE-BEG.
+Set MJD-AVG to 59876.929697 from DATE-AVG.
+Set MJD-END to 59876.930042 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:53 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.929352 from DATEREF.
+Set MJD-OBS to 59876.929352 from DATE-OBS.
+Set MJD-BEG to 59876.929352 from DATE-BEG.
+Set MJD-AVG to 59876.929697 from DATE-AVG.
+Set MJD-END to 59876.930042 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.74521961614 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:54 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74521961614 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.930579 from DATEREF.
+Set MJD-OBS to 59876.930579 from DATE-OBS.
+Set MJD-BEG to 59876.930579 from DATE-BEG.
+Set MJD-AVG to 59876.930923 from DATE-AVG.
+Set MJD-END to 59876.931268 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:54 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.930579 from DATEREF.
+Set MJD-OBS to 59876.930579 from DATE-OBS.
+Set MJD-BEG to 59876.930579 from DATE-BEG.
+Set MJD-AVG to 59876.930923 from DATE-AVG.
+Set MJD-END to 59876.931268 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.74464081023 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:54 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74464081023 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.931811 from DATEREF.
+Set MJD-OBS to 59876.931811 from DATE-OBS.
+Set MJD-BEG to 59876.931811 from DATE-BEG.
+Set MJD-AVG to 59876.932156 from DATE-AVG.
+Set MJD-END to 59876.932500 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:54 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.931811 from DATEREF.
+Set MJD-OBS to 59876.931811 from DATE-OBS.
+Set MJD-BEG to 59876.931811 from DATE-BEG.
+Set MJD-AVG to 59876.932156 from DATE-AVG.
+Set MJD-END to 59876.932500 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.74402099384 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:55 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74402099384 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.933037 from DATEREF.
+Set MJD-OBS to 59876.933037 from DATE-OBS.
+Set MJD-BEG to 59876.933037 from DATE-BEG.
+Set MJD-AVG to 59876.933382 from DATE-AVG.
+Set MJD-END to 59876.933727 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:55 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.933037 from DATEREF.
+Set MJD-OBS to 59876.933037 from DATE-OBS.
+Set MJD-BEG to 59876.933037 from DATE-BEG.
+Set MJD-AVG to 59876.933382 from DATE-AVG.
+Set MJD-END to 59876.933727 from DATE-END'.
+2025-02-26 15:37:55 - root - INFO: Processing file batch 2/6 (files 6-10)
+WARNING: FITSFixedWarning: CROTA = 4.74346381916 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:55 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74346381916 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.934259 from DATEREF.
+Set MJD-OBS to 59876.934259 from DATE-OBS.
+Set MJD-BEG to 59876.934259 from DATE-BEG.
+Set MJD-AVG to 59876.934604 from DATE-AVG.
+Set MJD-END to 59876.934949 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:55 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.934259 from DATEREF.
+Set MJD-OBS to 59876.934259 from DATE-OBS.
+Set MJD-BEG to 59876.934259 from DATE-BEG.
+Set MJD-AVG to 59876.934604 from DATE-AVG.
+Set MJD-END to 59876.934949 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.74289331110 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:55 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74289331110 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.935479 from DATEREF.
+Set MJD-OBS to 59876.935479 from DATE-OBS.
+Set MJD-BEG to 59876.935479 from DATE-BEG.
+Set MJD-AVG to 59876.935824 from DATE-AVG.
+Set MJD-END to 59876.936169 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:55 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.935479 from DATEREF.
+Set MJD-OBS to 59876.935479 from DATE-OBS.
+Set MJD-BEG to 59876.935479 from DATE-BEG.
+Set MJD-AVG to 59876.935824 from DATE-AVG.
+Set MJD-END to 59876.936169 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.74231772974 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:56 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74231772974 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.936705 from DATEREF.
+Set MJD-OBS to 59876.936705 from DATE-OBS.
+Set MJD-BEG to 59876.936705 from DATE-BEG.
+Set MJD-AVG to 59876.937050 from DATE-AVG.
+Set MJD-END to 59876.937395 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:56 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.936705 from DATEREF.
+Set MJD-OBS to 59876.936705 from DATE-OBS.
+Set MJD-BEG to 59876.936705 from DATE-BEG.
+Set MJD-AVG to 59876.937050 from DATE-AVG.
+Set MJD-END to 59876.937395 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.74170611702 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:56 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74170611702 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.937932 from DATEREF.
+Set MJD-OBS to 59876.937932 from DATE-OBS.
+Set MJD-BEG to 59876.937932 from DATE-BEG.
+Set MJD-AVG to 59876.938277 from DATE-AVG.
+Set MJD-END to 59876.938622 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:56 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.937932 from DATEREF.
+Set MJD-OBS to 59876.937932 from DATE-OBS.
+Set MJD-BEG to 59876.937932 from DATE-BEG.
+Set MJD-AVG to 59876.938277 from DATE-AVG.
+Set MJD-END to 59876.938622 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.74112735953 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:57 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74112735953 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.939158 from DATEREF.
+Set MJD-OBS to 59876.939158 from DATE-OBS.
+Set MJD-BEG to 59876.939158 from DATE-BEG.
+Set MJD-AVG to 59876.939503 from DATE-AVG.
+Set MJD-END to 59876.939848 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:57 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.939158 from DATEREF.
+Set MJD-OBS to 59876.939158 from DATE-OBS.
+Set MJD-BEG to 59876.939158 from DATE-BEG.
+Set MJD-AVG to 59876.939503 from DATE-AVG.
+Set MJD-END to 59876.939848 from DATE-END'.
+2025-02-26 15:37:57 - root - INFO: Processing file batch 3/6 (files 11-15)
+WARNING: FITSFixedWarning: CROTA = 4.74053230509 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:57 - astropy - WARNING: FITSFixedWarning: CROTA = 4.74053230509 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.940385 from DATEREF.
+Set MJD-OBS to 59876.940385 from DATE-OBS.
+Set MJD-BEG to 59876.940385 from DATE-BEG.
+Set MJD-AVG to 59876.940730 from DATE-AVG.
+Set MJD-END to 59876.941075 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:57 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.940385 from DATEREF.
+Set MJD-OBS to 59876.940385 from DATE-OBS.
+Set MJD-BEG to 59876.940385 from DATE-BEG.
+Set MJD-AVG to 59876.940730 from DATE-AVG.
+Set MJD-END to 59876.941075 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73995785294 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:58 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73995785294 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.941612 from DATEREF.
+Set MJD-OBS to 59876.941612 from DATE-OBS.
+Set MJD-BEG to 59876.941612 from DATE-BEG.
+Set MJD-AVG to 59876.941956 from DATE-AVG.
+Set MJD-END to 59876.942301 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:58 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.941612 from DATEREF.
+Set MJD-OBS to 59876.941612 from DATE-OBS.
+Set MJD-BEG to 59876.941612 from DATE-BEG.
+Set MJD-AVG to 59876.941956 from DATE-AVG.
+Set MJD-END to 59876.942301 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73937861818 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:58 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73937861818 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.942847 from DATEREF.
+Set MJD-OBS to 59876.942847 from DATE-OBS.
+Set MJD-BEG to 59876.942847 from DATE-BEG.
+Set MJD-AVG to 59876.943192 from DATE-AVG.
+Set MJD-END to 59876.943537 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:58 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.942847 from DATEREF.
+Set MJD-OBS to 59876.942847 from DATE-OBS.
+Set MJD-BEG to 59876.942847 from DATE-BEG.
+Set MJD-AVG to 59876.943192 from DATE-AVG.
+Set MJD-END to 59876.943537 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73879336086 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:58 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73879336086 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.944065 from DATEREF.
+Set MJD-OBS to 59876.944065 from DATE-OBS.
+Set MJD-BEG to 59876.944065 from DATE-BEG.
+Set MJD-AVG to 59876.944410 from DATE-AVG.
+Set MJD-END to 59876.944755 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:58 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.944065 from DATEREF.
+Set MJD-OBS to 59876.944065 from DATE-OBS.
+Set MJD-BEG to 59876.944065 from DATE-BEG.
+Set MJD-AVG to 59876.944410 from DATE-AVG.
+Set MJD-END to 59876.944755 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73819259212 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:59 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73819259212 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.945302 from DATEREF.
+Set MJD-OBS to 59876.945302 from DATE-OBS.
+Set MJD-BEG to 59876.945302 from DATE-BEG.
+Set MJD-AVG to 59876.945647 from DATE-AVG.
+Set MJD-END to 59876.945992 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:59 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.945302 from DATEREF.
+Set MJD-OBS to 59876.945302 from DATE-OBS.
+Set MJD-BEG to 59876.945302 from DATE-BEG.
+Set MJD-AVG to 59876.945647 from DATE-AVG.
+Set MJD-END to 59876.945992 from DATE-END'.
+2025-02-26 15:37:59 - root - INFO: Processing file batch 4/6 (files 16-20)
+WARNING: FITSFixedWarning: CROTA = 4.73761269310 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:37:59 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73761269310 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.946519 from DATEREF.
+Set MJD-OBS to 59876.946519 from DATE-OBS.
+Set MJD-BEG to 59876.946519 from DATE-BEG.
+Set MJD-AVG to 59876.946864 from DATE-AVG.
+Set MJD-END to 59876.947209 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:37:59 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.946519 from DATEREF.
+Set MJD-OBS to 59876.946519 from DATE-OBS.
+Set MJD-BEG to 59876.946519 from DATE-BEG.
+Set MJD-AVG to 59876.946864 from DATE-AVG.
+Set MJD-END to 59876.947209 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73700342093 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:00 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73700342093 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.947760 from DATEREF.
+Set MJD-OBS to 59876.947760 from DATE-OBS.
+Set MJD-BEG to 59876.947760 from DATE-BEG.
+Set MJD-AVG to 59876.948105 from DATE-AVG.
+Set MJD-END to 59876.948450 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:00 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.947760 from DATEREF.
+Set MJD-OBS to 59876.947760 from DATE-OBS.
+Set MJD-BEG to 59876.947760 from DATE-BEG.
+Set MJD-AVG to 59876.948105 from DATE-AVG.
+Set MJD-END to 59876.948450 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73646618656 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:00 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73646618656 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.948981 from DATEREF.
+Set MJD-OBS to 59876.948981 from DATE-OBS.
+Set MJD-BEG to 59876.948981 from DATE-BEG.
+Set MJD-AVG to 59876.949326 from DATE-AVG.
+Set MJD-END to 59876.949671 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:00 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.948981 from DATEREF.
+Set MJD-OBS to 59876.948981 from DATE-OBS.
+Set MJD-BEG to 59876.948981 from DATE-BEG.
+Set MJD-AVG to 59876.949326 from DATE-AVG.
+Set MJD-END to 59876.949671 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73585608869 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:00 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73585608869 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.950213 from DATEREF.
+Set MJD-OBS to 59876.950213 from DATE-OBS.
+Set MJD-BEG to 59876.950213 from DATE-BEG.
+Set MJD-AVG to 59876.950558 from DATE-AVG.
+Set MJD-END to 59876.950903 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:00 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.950213 from DATEREF.
+Set MJD-OBS to 59876.950213 from DATE-OBS.
+Set MJD-BEG to 59876.950213 from DATE-BEG.
+Set MJD-AVG to 59876.950558 from DATE-AVG.
+Set MJD-END to 59876.950903 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73529068103 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:01 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73529068103 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.951426 from DATEREF.
+Set MJD-OBS to 59876.951426 from DATE-OBS.
+Set MJD-BEG to 59876.951426 from DATE-BEG.
+Set MJD-AVG to 59876.951771 from DATE-AVG.
+Set MJD-END to 59876.952116 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:01 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.951426 from DATEREF.
+Set MJD-OBS to 59876.951426 from DATE-OBS.
+Set MJD-BEG to 59876.951426 from DATE-BEG.
+Set MJD-AVG to 59876.951771 from DATE-AVG.
+Set MJD-END to 59876.952116 from DATE-END'.
+2025-02-26 15:38:01 - root - INFO: Processing file batch 5/6 (files 21-25)
+WARNING: FITSFixedWarning: CROTA = 4.73465123295 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:01 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73465123295 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.952662 from DATEREF.
+Set MJD-OBS to 59876.952662 from DATE-OBS.
+Set MJD-BEG to 59876.952662 from DATE-BEG.
+Set MJD-AVG to 59876.953007 from DATE-AVG.
+Set MJD-END to 59876.953352 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:01 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.952662 from DATEREF.
+Set MJD-OBS to 59876.952662 from DATE-OBS.
+Set MJD-BEG to 59876.952662 from DATE-BEG.
+Set MJD-AVG to 59876.953007 from DATE-AVG.
+Set MJD-END to 59876.953352 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73411689918 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:02 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73411689918 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.953880 from DATEREF.
+Set MJD-OBS to 59876.953880 from DATE-OBS.
+Set MJD-BEG to 59876.953880 from DATE-BEG.
+Set MJD-AVG to 59876.954225 from DATE-AVG.
+Set MJD-END to 59876.954570 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:02 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.953880 from DATEREF.
+Set MJD-OBS to 59876.953880 from DATE-OBS.
+Set MJD-BEG to 59876.953880 from DATE-BEG.
+Set MJD-AVG to 59876.954225 from DATE-AVG.
+Set MJD-END to 59876.954570 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73353781031 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:02 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73353781031 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.955107 from DATEREF.
+Set MJD-OBS to 59876.955107 from DATE-OBS.
+Set MJD-BEG to 59876.955107 from DATE-BEG.
+Set MJD-AVG to 59876.955452 from DATE-AVG.
+Set MJD-END to 59876.955797 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:02 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.955107 from DATEREF.
+Set MJD-OBS to 59876.955107 from DATE-OBS.
+Set MJD-BEG to 59876.955107 from DATE-BEG.
+Set MJD-AVG to 59876.955452 from DATE-AVG.
+Set MJD-END to 59876.955797 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73291619388 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:02 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73291619388 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.956343 from DATEREF.
+Set MJD-OBS to 59876.956343 from DATE-OBS.
+Set MJD-BEG to 59876.956343 from DATE-BEG.
+Set MJD-AVG to 59876.956687 from DATE-AVG.
+Set MJD-END to 59876.957032 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:03 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.956343 from DATEREF.
+Set MJD-OBS to 59876.956343 from DATE-OBS.
+Set MJD-BEG to 59876.956343 from DATE-BEG.
+Set MJD-AVG to 59876.956687 from DATE-AVG.
+Set MJD-END to 59876.957032 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73233742647 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:03 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73233742647 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.957561 from DATEREF.
+Set MJD-OBS to 59876.957561 from DATE-OBS.
+Set MJD-BEG to 59876.957561 from DATE-BEG.
+Set MJD-AVG to 59876.957906 from DATE-AVG.
+Set MJD-END to 59876.958250 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:03 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.957561 from DATEREF.
+Set MJD-OBS to 59876.957561 from DATE-OBS.
+Set MJD-BEG to 59876.957561 from DATE-BEG.
+Set MJD-AVG to 59876.957906 from DATE-AVG.
+Set MJD-END to 59876.958250 from DATE-END'.
+2025-02-26 15:38:03 - root - INFO: Processing file batch 6/6 (files 26-30)
+WARNING: FITSFixedWarning: CROTA = 4.73175713170 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:03 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73175713170 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.958796 from DATEREF.
+Set MJD-OBS to 59876.958796 from DATE-OBS.
+Set MJD-BEG to 59876.958796 from DATE-BEG.
+Set MJD-AVG to 59876.959141 from DATE-AVG.
+Set MJD-END to 59876.959486 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:03 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.958796 from DATEREF.
+Set MJD-OBS to 59876.958796 from DATE-OBS.
+Set MJD-BEG to 59876.958796 from DATE-BEG.
+Set MJD-AVG to 59876.959141 from DATE-AVG.
+Set MJD-END to 59876.959486 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73117954549 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:04 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73117954549 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.960023 from DATEREF.
+Set MJD-OBS to 59876.960023 from DATE-OBS.
+Set MJD-BEG to 59876.960023 from DATE-BEG.
+Set MJD-AVG to 59876.960368 from DATE-AVG.
+Set MJD-END to 59876.960713 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:04 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.960023 from DATEREF.
+Set MJD-OBS to 59876.960023 from DATE-OBS.
+Set MJD-BEG to 59876.960023 from DATE-BEG.
+Set MJD-AVG to 59876.960368 from DATE-AVG.
+Set MJD-END to 59876.960713 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73060770678 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:04 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73060770678 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.961241 from DATEREF.
+Set MJD-OBS to 59876.961241 from DATE-OBS.
+Set MJD-BEG to 59876.961241 from DATE-BEG.
+Set MJD-AVG to 59876.961586 from DATE-AVG.
+Set MJD-END to 59876.961931 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:04 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.961241 from DATEREF.
+Set MJD-OBS to 59876.961241 from DATE-OBS.
+Set MJD-BEG to 59876.961241 from DATE-BEG.
+Set MJD-AVG to 59876.961586 from DATE-AVG.
+Set MJD-END to 59876.961931 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.73001637921 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:05 - astropy - WARNING: FITSFixedWarning: CROTA = 4.73001637921 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.962477 from DATEREF.
+Set MJD-OBS to 59876.962477 from DATE-OBS.
+Set MJD-BEG to 59876.962477 from DATE-BEG.
+Set MJD-AVG to 59876.962822 from DATE-AVG.
+Set MJD-END to 59876.963167 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:05 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.962477 from DATEREF.
+Set MJD-OBS to 59876.962477 from DATE-OBS.
+Set MJD-BEG to 59876.962477 from DATE-BEG.
+Set MJD-AVG to 59876.962822 from DATE-AVG.
+Set MJD-END to 59876.963167 from DATE-END'.
+WARNING: FITSFixedWarning: CROTA = 4.72942548606 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't. [astropy.wcs.wcs]
+2025-02-26 15:38:05 - astropy - WARNING: FITSFixedWarning: CROTA = 4.72942548606 / [deg] S/C counter-clockwise roll rel to Solar N
+keyword looks very much like CROTAn but isn't.
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.963704 from DATEREF.
+Set MJD-OBS to 59876.963704 from DATE-OBS.
+Set MJD-BEG to 59876.963704 from DATE-BEG.
+Set MJD-AVG to 59876.964049 from DATE-AVG.
+Set MJD-END to 59876.964393 from DATE-END'. [astropy.wcs.wcs]
+2025-02-26 15:38:05 - astropy - WARNING: FITSFixedWarning: 'datfix' made the change 'Set MJDREF to 59876.963704 from DATEREF.
+Set MJD-OBS to 59876.963704 from DATE-OBS.
+Set MJD-BEG to 59876.963704 from DATE-BEG.
+Set MJD-AVG to 59876.964049 from DATE-AVG.
+Set MJD-END to 59876.964393 from DATE-END'.
+2025-02-26 15:38:05 - root - INFO: Data loading completed in 12.49s
+2025-02-26 15:38:05 - root - INFO: Data preparation completed in 0.03s
+2025-02-26 15:38:05 - root - INFO: Original fit calculations completed in 0.01s
+2025-02-26 15:38:06 - root - INFO: Using 10 CPUs out of 192 available
+2025-02-26 15:38:06 - root - INFO: Generating parameter combinations
+2025-02-26 15:38:06 - root - INFO: Generated 236250 parameter combinations
+2025-02-26 15:38:54 - root - INFO: Filtered to 236213 combinations after excluding existing results
+2025-02-26 15:38:54 - root - INFO: Limiting to first 400 parameter combinations
+2025-02-26 15:38:54 - root - INFO: Processing batch 1/8 with 50 parameter sets
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+2025-02-26 15:39:52 - numba.core.transforms - INFO: finding looplift candidates
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+/cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py:83: NumbaWarning: 
+Compilation is falling back to object mode WITHOUT looplifting enabled because Function "_masked_medfilt_inner" failed type inference due to: Use of unsupported NumPy function 'numpy.unravel_index' or unsupported use of the function.
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+During: typing of get attribute at /cluster/home/zhuyin/sunpy_env/lib/python3.11/site-packages/sharpesst/util.py (86)
+
+File "../../../../sunpy_env/lib/python3.11/site-packages/sharpesst/util.py", line 86:
+def _masked_medfilt_inner(flatinds,data,footprint_inds,footprint_ind_offset,tparg,dat_pad_shape,data_fppad,mask_fppad,data_filt):
+    <source elided>
+    for ind in flatinds:
+        ijkpad = np.unravel_index(ind,data.shape)+footprint_inds-footprint_ind_offset
+        ^
+
+  @numba.jit(fastmath=True, parallel=True, forceobj=True)
+2025-02-26 16:02:52 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.31_1.00 in 1438.32s | Ratio: 0.5818
+2025-02-26 16:03:15 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.26_1.80 in 1460.93s | Ratio: 0.5890
+2025-02-26 16:03:31 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.26_1.40 in 1476.63s | Ratio: 0.5890
+2025-02-26 16:05:03 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.26_1.00 in 1568.51s | Ratio: 0.5890
+2025-02-26 16:06:46 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.21_1.20 in 1671.87s | Ratio: 0.6328
+2025-02-26 16:06:53 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.16_2.00 in 1678.78s | Ratio: 0.6807
+2025-02-26 16:07:06 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.16_1.40 in 1692.38s | Ratio: 0.6807
+2025-02-26 16:07:35 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.21_1.80 in 1721.22s | Ratio: 0.6328
+2025-02-26 16:08:32 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.11_1.40 in 1778.38s | Ratio: 0.7228
+2025-02-26 16:08:48 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.11_1.00 in 1794.45s | Ratio: 0.7228
+2025-02-26 16:14:58 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.31_1.20 in 725.08s | Ratio: 0.5818
+2025-02-26 16:23:53 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.21_2.00 in 977.42s | Ratio: 0.6328
+2025-02-26 16:27:35 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.26_2.00 in 1459.33s | Ratio: 0.5890
+2025-02-26 16:29:51 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.26_1.60 in 1579.73s | Ratio: 0.5890
+2025-02-26 16:32:14 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.26_1.20 in 1631.26s | Ratio: 0.5890
+2025-02-26 16:33:17 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.21_1.00 in 1582.88s | Ratio: 0.6328
+2025-02-26 16:34:13 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.16_1.20 in 1540.43s | Ratio: 0.6807
+2025-02-26 16:34:25 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.21_1.60 in 1658.58s | Ratio: 0.6328
+2025-02-26 16:36:18 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.16_1.60 in 1751.20s | Ratio: 0.6807
+2025-02-26 16:38:55 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.31_1.40 in 1436.59s | Ratio: 0.5818
+2025-02-26 16:39:51 - root - INFO: Processed 4.50_1.05_10.00_2.00_-0.31_0.11_1.20 in 1861.76s | Ratio: 0.7228
+slurmstepd: error: *** JOB 24654831 ON eu-g9-033-3 CANCELLED AT 2025-02-26T16:45:56 ***
