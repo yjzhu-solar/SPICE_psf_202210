@@ -4,3 +4,5 @@
 /ipynb_saffron/.tmp/
 /ipynb_saffron/tmp/
 /ipynb_saffron/tmp_functions/
+euler_jobs/spice_full_detector_parameter_search_1/spice_1024_full_detector_psf_parameter_search_euler_job.py
+euler_jobs/spice_full_detector_parameter_search_1/spice_1024_full_detector_psf_parameter_search_euler_job_claude.py
