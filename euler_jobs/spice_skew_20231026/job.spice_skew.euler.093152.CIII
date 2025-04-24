@@ -1,0 +1,24 @@
+#!/bin/bash
+#SBATCH --job-name=spice_skew_20231026T093152_CIII
+#SBATCH --nodes=1          # Request a single node
+#SBATCH --ntasks=1         # Run a single task
+#SBATCH --cpus-per-task=40  # Request 48 cores for that task
+#SBATCH --time 2:00:00                   # 8-hour run-time
+#SBATCH --mem-per-cpu=2000     # 2000 MB per core
+###SBATCH -J analysis1
+###SBATCH -o analysis1.out
+###SBATCH -e analysis1.err
+###SBATCH --mail-type=END,FAIL
+###source /cluster/apps/local/env2lmod.sh  # Switch to the new software stack
+###module load gcc/6.3.0 openmpi/4.0.2     # Load modules
+###cd /path/to/execution/folder            # Change directory
+###mpirun myprogram arg1                   # Execute the program
+
+source /cluster/home/zhuyin/.bashrc
+module load stack/2024-06 gcc
+
+
+source /cluster/home/zhuyin/sunpy_env/bin/activate
+
+cd /cluster/home/zhuyin/Solar/SPICE_psf_202210/euler_jobs/spice_skew_20231026
+python spice_skew_20231026T093152_parallel_CIII.py
