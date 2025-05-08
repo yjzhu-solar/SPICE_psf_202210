@@ -68,6 +68,13 @@ shift_vars = search_shifts(spice_dat, spice_hdr, x_refine, y_refine,
                            linelist=linelist)
 shift_vars.save()
 
+x_refine, y_refine = refine_points(shift_vars,[-5,5],[-5,5], 101, 101, 20)
+shift_vars = search_shifts(spice_dat, spice_hdr, x_refine, y_refine,
+                           lsq_fitter, shift_vars=shift_vars, search_multi_thread=True, search_nthread=36,
+                           yrange_plot_dir='/cluster/home/zhuyin/work/spice_psf/spice_skew_20231026/yrange_plots/',
+                           linelist=linelist)
+shift_vars.save()
+
 xa = np.array(list(shift_vars.valdict.values()))[:,0]
 ya = np.array(list(shift_vars.valdict.values()))[:,1]
 dat = np.array(list(shift_vars.valdict.values()))[:,2]
